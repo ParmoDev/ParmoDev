@@ -34,6 +34,7 @@
 ---
 
 <img align="left" alt="ParmoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParmoDev&custom_title=ParmoDev's Github Stats&theme=dark&show_icons=true&hide_border=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParmoDev&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://parmo.dev
