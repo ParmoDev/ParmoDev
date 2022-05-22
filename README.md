@@ -5,7 +5,7 @@
 
 ## I'm a hobbyist and middle schooler.
 - 🌱 I’m currently learning everything
-- 🥅 2021 Goals: To improve and learn
+- 🥅 2022 Goals: To improve and learn
 - ⚡ Fun fact: I love to play videogames with my friends
 
 ### Connect with me:
